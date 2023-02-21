@@ -92,8 +92,8 @@ h1 {
 .accordion-item {
     padding: 8px;
     width: 90%;
-    margin: 5px;
-    border: 3px var(--secondary) solid;
+    margin-bottom: 10px;
+    border: 2px var(--secondary) solid;
 }
 .accordion-btn {
     font-style: italic;
