@@ -92,7 +92,8 @@ h1 {
 .accordion-item {
     padding: 8px;
     width: 90%;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
     border: 2px var(--secondary) solid;
 }
 .accordion-btn {
