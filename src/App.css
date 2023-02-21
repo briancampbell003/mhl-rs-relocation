@@ -93,7 +93,7 @@ h1 {
     padding: 8px;
     width: 90%;
     margin: 5px;
-    border: 20px var(--secondary) solid;
+    border: 3px var(--secondary) solid;
 }
 .accordion-btn {
     font-style: italic;
