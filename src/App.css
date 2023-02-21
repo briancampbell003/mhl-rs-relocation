@@ -21,9 +21,9 @@
 
 .page-content {
     margin: 30px 15% 40px;
+    padding: 15px;
     color: var(--primary);
     background-color: var(--secondary);
-    padding: 15px;
     border: var(--tertiary) double 5px;
 }
 
@@ -33,6 +33,12 @@ h1 {
 }
 
 /* HEADER AND NAV */
+.mhl-corner-logo {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .header {
     display: flex;
     flex-flow: column nowrap;
@@ -69,8 +75,11 @@ h1 {
 
 /* HOME PAGE */
 .home-page {
+    margin: 30px 15% 40px;
+    padding: 15px;
     color: var(--secondary);
     background-color: antiquewhite;
+    border: var(--tertiary) double 5px;
 }
 
 
