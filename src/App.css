@@ -13,6 +13,7 @@
 
 .page-frame {
     position: relative;
+    width: 100vw;
     min-height: 100vh;
     height: calc(100% + 40px);
     background-color: var(--secondary);
@@ -44,13 +45,15 @@ h1 {
     flex-flow: column nowrap;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
+    height: fit-content;
     background-image: linear-gradient(to right, whitesmoke, var(--primary));
     border-bottom: 2px solid whitesmoke;
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
 .header a {
     margin-top: 12px;
+    padding-left: 125px;
+    padding-right: 125px;
     text-align: center;
     font-family: Georgia, Times, 'Times New Roman', serif;
     font-size: 24px;
@@ -62,6 +65,10 @@ h1 {
     color: black;
 }
 .nav a {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-flow: row nowrap;
     font-family: Georgia, Times, 'Times New Roman', serif;
     margin-right: 4vw;
     margin-left: 4vw;
@@ -91,7 +98,7 @@ h1 {
 }
 .accordion-item {
     padding: 8px;
-    width: 90%;
+    width: 90vw;
     margin-bottom: 5px;
     margin-top: 5px;
     border-radius: 10px;
@@ -123,4 +130,23 @@ h1 {
     justify-content: center;
     align-items: center;
     list-style-type: none;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .mhl-corner-logo {
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header a {
+        border-bottom: var(--secondary) 2px solid;
+    }
+    .nav a {
+        width: 100vw;
+        flex-direction: column;
+        margin: 0px;
+        border-bottom: none;
+    }
 }
