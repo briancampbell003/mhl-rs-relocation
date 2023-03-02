@@ -122,6 +122,10 @@ h1 {
 .accordion-title {
     margin: 4px;
 }
+.accordion-title  .isActive {
+    margin: 4px;
+    font-weight: bolder;
+}
 .accordion-content {
     margin: 4px;
 }

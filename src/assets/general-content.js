@@ -25,7 +25,7 @@ export const generalData = [
     {
       title: '(1.3) Be flexible',
       content: `While I think it will be useful to have records of these conversations and agreements, perhaps the single most important advice I can offer is to practice flexibility and expect
-      to adjust on-the-fly. It will be best to communicate the same advice to your tenants. For example, during the Carlton’s relocation, tenants received no less than three different move-out dates. These changes and/or delays on the move-out date can be frustrating but are often outside of
+      to adjust on-the-fly. It will be best to communicate the same advice to your tenants. For example, during the Carlton’s relocation, tenants received no less than three different move-out dates. These changes and/or delays can be frustrating but they are often outside of
       Mercy Housing’s control entirely, and certainly outside of Resident Services’ control.`
     }
   ];

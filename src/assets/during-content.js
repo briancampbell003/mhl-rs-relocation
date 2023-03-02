@@ -81,7 +81,7 @@ export const duringData = [
     {
       title: '(3.5) Participate and solicit tenant participation with community art partners',
       content: `Finally, all the recent MHL syndications have included a partnership with a community arts
-      organization that will assist in the creation and installation of artwork to celebration the building’s
+      organization that will assist in the creation and installation of artwork to celebrate the building’s
       renovation. For the Carlton at least, this part of the process was rather smooth and during our weekly resyndication call, the RED team introduced a representative from Architreasures,
       the community art organization responsible for soliciting custom original artwork installations for
       the renovated property. This representative gave us an array of artist applications to consider and
