@@ -15,7 +15,7 @@ function Header({ currentPage, handlePageChange }) {
               href="#home"
               onClick={() => handlePageChange('Home')}
             >
-              RESIDENTS SERVICES RESYNDICATION GUIDE
+              RESIDENT SERVICES RESYNDICATION GUIDE
             </a>
             <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
           </div>
