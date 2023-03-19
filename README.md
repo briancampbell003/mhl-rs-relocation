@@ -21,7 +21,7 @@ ReactJS application containing suggestions for Resident Services staff at Mercy 
 
 ## Installation
 
-Visit the deployed page on GitHub pages to find advice organized under General, Before, During and After categories.
+Visit the [deployed page](https://briancampbell003.github.io/mhl-rs-relocation/) on GitHub pages to find advice organized under General, Before, During and After categories.
 
 ## Usage
 
