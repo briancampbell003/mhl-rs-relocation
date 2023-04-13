@@ -3,9 +3,9 @@ export const generalData = [
       title: '(1.1) Communication is key',
       content: `During normal operations, a building’s RS team should maintain regular and productive
       communication with that site’s Property Management team. However, during resyndication the RS
-      and PM teams might be working from different locations, and need to work closely with the MHL
+      and PM teams might be working from different locations, and will need to work closely with the MHL
       Development team, along with other internal and external partners at various stages of the process
-      (such as MHL Resource Development, 3 rd -party relocation specialists, etc.) For these reason,
+      (such as MHL Resource Development, 3rd-party relocation specialists, etc.) For these reasons,
       consistent and open communication between team members is crucial throughout resyndication.
       Maintain your regular site team meetings, even if these are conducted via Zoom, and attend weekly
       calls with all parties (typically a Teams meeting organized by MHL Development).`
